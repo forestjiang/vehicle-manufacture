@@ -18,7 +18,7 @@
     "express": "^4.15.2",
     "express-less": "^0.1.0",
     "serve-favicon": "^2.4.5",
-    "grpc": "1.11.3",
+    "grpc": "1.10.1",
     "request": "^2.81.0",
     "vehicle-manufacture-car-builder": "0.0.6",
     "vehicle-manufacture-manufacturing": "0.0.6",
